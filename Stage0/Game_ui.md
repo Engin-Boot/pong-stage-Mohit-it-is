@@ -14,7 +14,7 @@ The module is divided into three classes
 
 ### Scenario: loading of the pong game user interface
 
-  Given the game has started and user has enterd name
+  Given the game has started and user has entered name
 
   When user clicked start the game
 
