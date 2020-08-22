@@ -22,7 +22,7 @@ Module is divided into 4 classes
 
 ### Scenario: User press exit or game crashed while playing
 
-  Given User has started the game and game is loaded sucessfully
+  Given User has started the game and game is loaded successfully
   
   When User press exit or game freezes while playing
   
