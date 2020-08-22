@@ -1,4 +1,4 @@
-# -give-this-module-a-name
+# Movement of racket and ball
 
 ## Feature
 
@@ -18,6 +18,6 @@ Module is divided into 4 classes
 
   When the game is not crahsed or exited by user
 
-  Then start the movement of ball by invoking "ball movement" class 
+  Then start the movement of ball by invoking "ball movement" class
 
 ### -add-scenario-if-needed
