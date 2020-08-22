@@ -10,12 +10,28 @@ Provides "Report-crash" function to report crash and exit
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: To run the game
 
-  Given -give-initial-values-and-conditions
+  Given I have a working device which supports Pong game
 
-  When -event-happens
+  When I Run the game by tapping or clicking
 
-  Then -module-does-this
+  Then Start menu appears where users can enter their name
+  
 
-### -add-scenario-if-needed
+### Scenario: set Valid names of players
+
+  Given Users have entered their name and press "enter-game"
+  
+  When I check the names and names are not empty
+  
+  Then start the Pong game
+  
+  
+### Scenario: if Game Crashed in loading phase
+
+  Given I have started the game by tapping or clicking the icon
+  
+  When the screen freezes and start menu is not appearing
+  
+  Then Exit the game and popup "report-crash"
