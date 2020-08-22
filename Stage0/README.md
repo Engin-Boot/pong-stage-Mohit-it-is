@@ -1,3 +1,4 @@
+![classdiagramandmodule](https://user-images.githubusercontent.com/68475914/90953447-49523c00-e489-11ea-938b-ae4dd6758d8b.gif)
 # The Essentials
 
 1. Breakdown the problem into modules. Name each module
