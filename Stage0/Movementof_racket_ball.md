@@ -16,7 +16,7 @@ Module is divided into 4 classes
 
   Given User has started the game and graphical interface is loaded
 
-  When the game is not crahsed or exited by user
+  When the game is not crashed or exited by user
 
   Then start the movement of ball by invoking "ball movement" class
 
