@@ -20,4 +20,10 @@ The module is divided into three classes
 
   Then load the user interface of game
 
-### -add-scenario-if-needed
+### Scenario: if Game crashed while loading or user exits the game
+
+  Given user has enterd name and user interface is loading
+  
+  When user interrupts in between by clicking exit or game freezes
+  
+  Then stop loading phase of user interface and exit the game
