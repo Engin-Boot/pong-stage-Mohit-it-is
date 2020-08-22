@@ -1,17 +1,23 @@
-# -give-this-module-a-name
+# Game user interface
 
 ## Feature
 
 What part of the game does this module deliver?
+This module is used for the development of the User interface
+of the game
+The module is divided into three classes
+"PongGameUI" which controls Background color and background theme
+"RacketUI" Which controls racket theme
+"BallUI" Which controls ball theme
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: loading of the pong game user interface
 
-  Given -give-initial-values-and-conditions
+  Given the game has started and user has enterd name
 
-  When -event-happens
+  When user clicked start the game
 
-  Then -module-does-this
+  Then load the user interface of game
 
 ### -add-scenario-if-needed
