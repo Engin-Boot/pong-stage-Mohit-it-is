@@ -20,4 +20,10 @@ Module is divided into 4 classes
 
   Then start the movement of ball by invoking "ball movement" class
 
-### -add-scenario-if-needed
+### Scenario: User press exit or game crashed while playing
+
+  Given User has started the game and game is loaded sucessfully
+  
+  When User press exit or game freezes while playing
+  
+  Then Stop the game and exit
