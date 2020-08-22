@@ -1,3 +1,4 @@
+![classdiagramandmodule](https://user-images.githubusercontent.com/68475914/90953447-49523c00-e489-11ea-938b-ae4dd6758d8b.gif)
 # Pong Stage
 
 This is the place to explore the design of
