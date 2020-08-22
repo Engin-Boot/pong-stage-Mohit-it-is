@@ -18,7 +18,6 @@ Provides "Report-crash" function to report crash and exit
 
   Then Start menu appears where users can enter their name
   
-
 ### Scenario: set Valid names of players
 
   Given Users have entered their name and press "enter-game"
@@ -26,7 +25,6 @@ Provides "Report-crash" function to report crash and exit
   When I check the names and names are not empty
   
   Then start the Pong game
-  
   
 ### Scenario: if Game Crashed in loading phase
 
