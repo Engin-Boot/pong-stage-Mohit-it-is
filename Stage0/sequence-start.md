@@ -29,7 +29,7 @@ the racket
 
 ## One score
 
-* ScoreCard is a seperate module which keeps tracks of rounds  
+* Score-Card is a separate module which keeps tracks of rounds  
 and the number of reward points
 * Method "update-score" inside Scorecard class takes the value from  
 "Ball-collision class and updates the score
