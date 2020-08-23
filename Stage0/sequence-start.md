@@ -13,7 +13,7 @@ will look for related events
 
 ## Movement Initiation
 
-* As the user clicks start game the "Game-ui" module will start now  
+* As the user clicks start game the "Game-UI" module will start now  
 the user interface of the game will load
 * "Ball-UI" class is called where the size position and speed of  
 of the ball is defined
