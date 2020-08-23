@@ -29,8 +29,6 @@ the racket
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
-
 * ScoreCard is a seperate module which keeps tracks of rounds  
 and the number of reward points
 * Method "update-score" inside Scorecard class takes the value from  
@@ -40,4 +38,3 @@ and the number of reward points
 when a user wins
 * "show-star" function is called as soon user completes three rounds and  
 reward points are shown in screen
-
