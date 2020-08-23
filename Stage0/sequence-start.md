@@ -14,6 +14,19 @@ will look for related events
 ## Movement Initiation
 
 -describe-how-modules-interact-to-make-the-ball-move
+* As the user clicks start game the "Game-ui" module will start now  
+the user interface of the game will load
+* "Ball-UI" class is called where the size position and speed of  
+of the ball is defined
+* "Racket-UI" class is called where the size and position of  
+racket is defined
+* "Movement-module" will interact with "Game-UI" module to take the  
+position and size of the ball
+* "update-ball" function will move the ball continuously  
+* "Ball-collisions class will handle the collision of the ball with  
+the racket and the wall
+* "Ball-collision class will update the number of rounds if ball passes  
+the racket
 
 ## One score
 
