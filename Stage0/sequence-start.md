@@ -30,3 +30,14 @@ the racket
 ## One score
 
 -describe-how-the-modules-interact-to-record-scores
+
+* ScoreCard is a seperate module which keeps tracks of rounds  
+and the number of reward points
+* Method "update-score" inside Scorecard class takes the value from  
+"Ball-collision class and updates the score
+* After three rounds "update-score returns the winner  
+* "increment-coins" function inside "Reward" class increments points  
+when a user wins
+* "show-star" function is called as soon user completes three rounds and  
+reward points are shown in screen
+
