@@ -1,4 +1,4 @@
-# -give-this-module-a-name
+# Scorecard and winner module
 
 ## Feature
 
