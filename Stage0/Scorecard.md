@@ -21,4 +21,10 @@ of user
 
   Then show the scorecard "the number of rounds he won" and reward points
 
-### -add-scenario-if-needed
+### Scenario: User exits or game crashed just after completion of all rounds
+
+  Given the user completes all rounds of the game
+  
+  When user press exit or game freezes for 10 seconds
+  
+  Then Exit the game and reset values in scorecard
