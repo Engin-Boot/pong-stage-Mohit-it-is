@@ -1,6 +1,6 @@
 # Class diagram
 
-![mermaid-diagram-20200825221620](https://user-images.githubusercontent.com/68475914/91203541-c64b1300-e720-11ea-925d-5c81ce83f405.png)
+![mermaid-diagram-20200826111618](https://user-images.githubusercontent.com/68475914/91262249-a1d95000-e78d-11ea-925b-b45a32c01fb5.png)
 
 ## The Essentials
 
