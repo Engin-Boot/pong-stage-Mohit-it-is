@@ -11,10 +11,9 @@ makes it harder for opponents!
 
 ## Deliverables
 
-* "Mode" variable and "setmode" method will store the information if the game is purchased.
-* if game is purchased it will run in advanced mode.
-
-## Making the Game tough
+- "Mode" variable and "setmode" method will store the information  
+  if the game is purchased.
+- if game is purchased it will run in advanced mode.
 
 ### Scenario: When racket is still
   Given: the ball is moving and racket is still
