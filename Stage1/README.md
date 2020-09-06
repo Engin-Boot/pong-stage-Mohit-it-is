@@ -11,7 +11,24 @@ makes it harder for opponents!
 
 ## Deliverables
 
-Use the same structure as Stage 0 to describe your solution.
+* "Mode" variable and "setmode" method will store the information if the game is purchased.
+* if game is purchased it will run in advanced mode.
+
+## Making the Game tough
+
+### Scenario: When racket is still
+  Given: the ball is moving and racket is still
+  
+  when: ball collides with racket it
+  
+  Then: ball moves back with 1.2 times speed
+  
+### Scenario: When racket is moving
+  Given: The ball and racket both are moving
+  
+  When: ball collides with ball
+  
+  Then: ball moves with (racket + ball) speed
 
 ### Stage 1 class Diagram
 
