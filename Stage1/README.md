@@ -11,8 +11,8 @@ makes it harder for opponents!
 
 ## Deliverables
 
-- "Mode" variable and "setmode" method will store the information  
-  if the game is purchased.
+- "Mode" variable and "set-mode" method will store the  
+  information if the game is purchased.
 - if game is purchased it will run in advanced mode.
 
 ## Making the Game hard
