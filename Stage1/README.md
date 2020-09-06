@@ -18,6 +18,7 @@ makes it harder for opponents!
 ## Making the Game hard
 
 ### Scenario: When racket is still
+
   Given: the ball is moving and racket is still
   
   when: ball collides with racket it
@@ -25,6 +26,7 @@ makes it harder for opponents!
   Then: ball moves back with 1.2 times speed
   
 ### Scenario: When racket is moving
+
   Given: The ball and racket both are moving
   
   When: ball collides with ball
