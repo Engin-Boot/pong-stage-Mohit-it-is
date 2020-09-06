@@ -15,6 +15,8 @@ makes it harder for opponents!
   if the game is purchased.
 - if game is purchased it will run in advanced mode.
 
+## Making the Game hard
+
 ### Scenario: When racket is still
   Given: the ball is moving and racket is still
   
